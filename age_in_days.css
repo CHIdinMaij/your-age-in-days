@@ -1,0 +1,21 @@
+.container-1{border: 1px solid black;
+margin: 0 auto;
+width: 75%;
+text-align: center;
+}
+.flex_box{display: flex;
+justify-content: space-around;
+border: 1px solid black;
+padding: 10px;}
+.flex_box div{ padding: 10px;
+border: 1px solid black;
+   
+}
+
+ #Click{background-color: #250FF3;
+   
+    
+ }
+#reset{background-color: red;
+   
+}
